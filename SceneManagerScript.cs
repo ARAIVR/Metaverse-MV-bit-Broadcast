@@ -20,7 +20,9 @@ public class SceneManagerScript : MonoBehaviour  {
     public char _holdTokenID0000001ElementBroadcast;
     public char SceneFour_holdTokenID0000001ElementBroadcast;
     private void Start()
-
+//This algorithm now makes it possible for players in HALO to interact with the same NFT Token in Mario Smash brothers ot Fortnite
+//This is the true power of the NFT and game development in the Metaverse
+//Aston Walker has found the loophole and destroyed any future game publishing monopoly 
     
     {
         
